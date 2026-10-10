@@ -1,0 +1,61 @@
+{
+  "files": [
+    {
+      "file": "programs.html",
+      "original_lines": 196,
+      "cleaned_lines": 148,
+      "original_bytes": 6635,
+      "cleaned_bytes": 5515,
+      "saved_bytes": 1120
+    },
+    {
+      "file": "script.js",
+      "original_lines": 430,
+      "cleaned_lines": 340,
+      "original_bytes": 9742,
+      "cleaned_bytes": 9653,
+      "saved_bytes": 89
+    },
+    {
+      "file": "style.css",
+      "original_lines": 2070,
+      "cleaned_lines": 1637,
+      "original_bytes": 38051,
+      "cleaned_bytes": 37618,
+      "saved_bytes": 433
+    },
+    {
+      "file": "about.html",
+      "original_lines": 502,
+      "cleaned_lines": 319,
+      "original_bytes": 11993,
+      "cleaned_bytes": 8687,
+      "saved_bytes": 3306
+    },
+    {
+      "file": "contact.html",
+      "original_lines": 515,
+      "cleaned_lines": 282,
+      "original_bytes": 11440,
+      "cleaned_bytes": 7658,
+      "saved_bytes": 3782
+    },
+    {
+      "file": "gallery.html",
+      "original_lines": 1008,
+      "cleaned_lines": 643,
+      "original_bytes": 28991,
+      "cleaned_bytes": 22543,
+      "saved_bytes": 6448
+    },
+    {
+      "file": "index.html",
+      "original_lines": 312,
+      "cleaned_lines": 242,
+      "original_bytes": 12131,
+      "cleaned_bytes": 10351,
+      "saved_bytes": 1780
+    }
+  ],
+  "total_saved_bytes": 16958
+}
